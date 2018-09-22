@@ -1,3 +1,5 @@
+[Home](https://nmstamps.github.io/WareLab/) | [Navigation](map.md) | [Acronyms](acronyms.md) | [Ware Lab (official)](https://eng.vt.edu/warelab.html)
+
 # Common Ware lab acronyms
 
 This is a page for acronyms
@@ -8,7 +10,7 @@ Badges
 BAJA
 Bay
 BOLT
-Contract 
+Contract
 DBF
 Dewey
 HEVT
