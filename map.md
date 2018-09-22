@@ -7,10 +7,8 @@ The Ware Lab doesn't actually have it's own building, it shares one with VT Resc
 That being said, the Ware Lab is located in the "Military Building" near Turner's.
 
 The address is
-
-> 404 Old Turner St,
+> * 404 Old Turner St,
 > * Blacksburg, VA 24060
-> * Blacksburg, VA 24061
 
 *This address is actually different from that of the Military Building, but this is the building that the Ware Lab is in*
 
