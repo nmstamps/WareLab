@@ -4,9 +4,10 @@
 
 This is a page for acronyms
 
-## acronyms alphabetically
+## Acronyms alphabetically
 
 Badges
+
 BAJA
 Bay
 BOLT
