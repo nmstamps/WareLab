@@ -1,4 +1,4 @@
-[Home](https://nmstamps.github.io/WareLab/) | [Navigation](map.md) | [Acronyms](acronyms.md) | [Ware Lab (official)](https://eng.vt.edu/warelab.html)
+[Home](https://nmstamps.github.io/WareLab/) | [Maps](map.md) | [Acronyms](acronyms.md) | [Ware Lab (official)](https://eng.vt.edu/warelab.html)
 
 # Ware Lab Help
 
