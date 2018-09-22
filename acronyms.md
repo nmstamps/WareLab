@@ -6,16 +6,15 @@ This is a page for acronyms
 
 ## Acronyms alphabetically
 
-Badges
-
-BAJA
-Bay
-BOLT
-Contract
-DBF
-Dewey
-HEVT
-Phil
-SDS (safety data sheets)
-Klages
-Ware lab Survey
+- Badges
+- BAJA
+- Bay
+- BOLT
+- Contract
+- DBF
+- Dewey
+- HEVT
+- Klages
+- Phil
+- SDS (safety data sheets)
+- Ware lab Survey
