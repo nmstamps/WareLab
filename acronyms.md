@@ -14,6 +14,7 @@ This is a page for acronyms
     - Battery Operated Land Transportation
     - Electric Motor Cycle Team
 - Contract
+    - The Ware Lab Waiver that releases the Ware Lab and VT from all Liability 
 - DBF
     - Design Build Fly
 - Dewey
