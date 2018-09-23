@@ -2,6 +2,8 @@
 
 ![Ware Lab Logo](WareLabLogo.png)
 
+test
+
 # Ware Lab Help
 
 The Ware Lab is a great student resource, but that being said, it has it's shortcomings. There are large amounts of insider language which need deciphering for outsiders.
