@@ -1,10 +1,7 @@
 [Home](https://nmstamps.github.io/WareLab/) | [Maps](map.md) | [Acronyms](acronyms.md) | [Ware Lab (official)](https://eng.vt.edu/warelab.html)
 
-# Common Ware lab acronyms
-
-This is a page for acronyms
-
-## Acronyms alphabetically
+# Common Ware Lab Acronyms
+(Alphabetically)
 
 - Badges
     - Ware Lab badge that is required to do any work in the Ware Lab
@@ -14,7 +11,7 @@ This is a page for acronyms
     - Battery Operated Land Transportation
     - Electric Motor Cycle Team
 - Contract
-    - The Ware Lab Waiver that releases the Ware Lab and VT from all Liability 
+    - The Ware Lab Waiver that releases the Ware Lab and VT from all Liability
 - DBF
     - Design Build Fly
 - Dewey
