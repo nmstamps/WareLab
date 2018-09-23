@@ -14,6 +14,4 @@ The address is
 
 # Ware Lab maps
 
-This is a page of Ware Lab maps
-
-![Ware Lab Map](WareLabMap.jpg)
+![Ware Lab Map](WareLabMap.png)
