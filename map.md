@@ -10,6 +10,8 @@ The address is
 > * 404 Old Turner St,
 > * Blacksburg, VA 24060
 
+![Ware Lab Location](LargeMap.PNG)
+
 *This address is actually different from that of the Military Building, but this is the building that the Ware Lab is in*
 
 # Ware Lab maps
